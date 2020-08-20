@@ -1,5 +1,5 @@
 # Ender-3: Bioprinter Edition! (work in progress)
-original authors: Joongho Kim, Elisa Dorn, Saad (Bitch) Kamal, Jasmeet Mander
+original authors: Joongho Kim, Elisa Dorn, Saad Kamal, Jasmeet Mander
 
 # The Problem:
 Bioprinters are a recent emerging biofabrication technology that is capable of printing various complex biological structures (such as tissue or organs) through a layer-by-layer additive process (similar to traditional 3D printers!). Unfortunately, (unlike traditional 3D printers) bioprinters are expensive, and many university/college bio-labatories do not have access to one.  
