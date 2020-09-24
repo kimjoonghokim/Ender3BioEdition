@@ -9,7 +9,10 @@ Convert the Ender-3 into a low-cost bioprinter, capable of extruding viscous bio
 
 # Features:
  coming soon, so keep an eye out ;) 
+ (our project is complete, and the STLs are uploaded, we are currently working on documentation, but we are a bit swamped because of school!)
  
 # How to Get Started:
  coming soon, so keep an eye out ;) 
 
+# For the Future:
+ coming soon, so keep an eye out ;) 
