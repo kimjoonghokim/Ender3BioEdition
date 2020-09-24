@@ -8,8 +8,7 @@ Bioprinters are a recent emerging biofabrication technology that is capable of p
 Convert the Ender-3 into a low-cost bioprinter, capable of extruding viscous bioinks. While bioprinters are still a rarity, many educational/research institutions have access to many "traditional" 3D printers. So by making a majority of the build parts "3D-printable" and also centering our modifications around a "budget" 3D printer, we hope to make this project accessible to as many people as possible. We hope to make bioprinters a part of many more laboratories and research facilities all over the world, and encourage further research in the field!
 
 # Features:
- coming soon, so keep an eye out ;) 
- (our project is complete, and the STLs are uploaded, we are currently working on documentation, but we are a bit swamped because of school!)
+ coming soon, so keep an eye out (our project is complete for now, and the STLs are uploaded, we are currently working on documentation and instructions, but we are a bit swamped because of school!)
  
 # How to Get Started:
  coming soon, so keep an eye out ;) 
