@@ -9,3 +9,6 @@
 4. On PrusaSlicer, select File > Import > Import Config Bundle... and select the "Prusaslicer_config_bundle" file that you downloaded from this repo. 
 
 5. You're done! The Bioprinter slicer settings should be imported!
+
+*Keep in mind, these slicer settings are just a base, you will most likely have to change settings based on your usage for better results
+
