@@ -4,7 +4,7 @@
 
 2. Once installed, an initial configuration setup window will popup asking you to select your printer. Feel free to hit "Cancel" and ignore this.
 
-3. Download the "Prusaslicer_config_bundle" file from this folder.
+3. Download the "Prusaslicer_config_bundle.ini" file from this folder.
 
 4. On PrusaSlicer, select File > Import > Import Config Bundle... and select the "Prusaslicer_config_bundle" file that you downloaded from this repo. 
 
